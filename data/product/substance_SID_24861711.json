@@ -1,0 +1,331 @@
+{
+  "Record": {
+    "RecordType": "SID",
+    "RecordNumber": 24861711,
+    "RecordTitle": "1,3-Dimethyluracil, 99%",
+    "Section": [
+      {
+        "TOCHeading": "2D Structure",
+        "Description": "A two-dimensional representation of the substance.",
+        "DisplayControls": {
+          "MoveToTop": true
+        },
+        "Information": [
+          {
+            "ReferenceNumber": 1,
+            "Value": {
+              "Boolean": [
+                true
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Identity",
+        "Description": "Information describing the identity of this PubChem record, including record identifiers, synonyms (i.e., chemical names), dates, etc.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/subcmpd_summary_page_help.html#Identification",
+        "Section": [
+          {
+            "TOCHeading": "Source",
+            "Description": "Depositor who provided this record",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 1,
+                "URL": "http://www.sigmaaldrich.com",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Sigma-Aldrich"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "External ID",
+            "Description": "The external identifier associated with the deposited record",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 1,
+                "URL": "https://www.sigmaaldrich.com/catalog/product/aldrich/349801?utm_source=pubchem&utm_campaign=pubchem_2017&utm_medium=referral",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "349801_ALDRICH"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Source Category",
+            "Description": "The categorization of the record depositor",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 1,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Chemical Vendors"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Version",
+            "Description": "Version number of the PubChem record",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 1,
+                "Value": {
+                  "Number": [
+                    6
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Record Description",
+            "Description": "Record Description",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 1,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Please note that the substance record is presented as provided to PubChem by the source (depositor). For standardized chemical structure and/or annotation information, please visit the summary page for CID 70122.",
+                      "Markup": [
+                        {
+                          "Start": 202,
+                          "Length": 9,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/70122"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Depositor-Supplied Synonyms",
+            "Description": "Chemical names and identifiers as provided by the substance data contributor.",
+            "DisplayControls": {
+              "ListType": "Columns"
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 1,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "1,3-Dimethyluracil, 99%"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Deposit Date",
+            "Description": "Date this record was first deposited into PubChem",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 1,
+                "Value": {
+                  "DateISO8601": [
+                    "2007-07-12"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Modify Date",
+            "Description": "Date this record was last updated in PubChem",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "ThisSection",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              },
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 1,
+                "Name": "Version 1",
+                "Value": {
+                  "DateISO8601": [
+                    "2007-07-12"
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 1,
+                "Name": "Version 2",
+                "Value": {
+                  "DateISO8601": [
+                    "2008-01-18"
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 1,
+                "Name": "Version 3",
+                "Value": {
+                  "DateISO8601": [
+                    "2009-05-14"
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 1,
+                "Name": "Version 4",
+                "Value": {
+                  "DateISO8601": [
+                    "2017-03-03"
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 1,
+                "Name": "Version 5",
+                "Value": {
+                  "DateISO8601": [
+                    "2017-05-05"
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 1,
+                "Name": "Version 6",
+                "Value": {
+                  "DateISO8601": [
+                    "2018-03-14"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Available Date",
+            "Description": "Date this record was first made available to the public",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 1,
+                "Value": {
+                  "DateISO8601": [
+                    "2007-07-12"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Status",
+            "Description": "Current PubChem record status",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 1,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Live"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Related Records",
+        "Description": "Related compounds/substances information based on the similar structure, annotations, etc.",
+        "Section": [
+          {
+            "TOCHeading": "Related Compounds",
+            "Description": "Compound records closely associated to this substance.",
+            "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/subcmpd_summary_page_help.html#RelatedRecords",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "ThisSection",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              },
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 1,
+                "Name": "PubChem CID",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "CID 70122 (1,3-Dimethyluracil)",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 9,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/70122"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 1,
+        "SourceName": "PubChem",
+        "SourceID": "PubChem",
+        "Description": "Data deposited in or computed by PubChem",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov"
+      }
+    ]
+  }
+}
